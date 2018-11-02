@@ -12,6 +12,10 @@
 
     <!-- Error messages-->
     <string name="detail_error_message">Sandwich data not available</string>
+    <string name="image_error_message">Sorry, sandwich image is not available</string>
+
+    <!-- Newline String-->
+    <string name="newline">\n</string>
 
     <string-array name="sandwich_names">
         <item>Ham and cheese sandwich</item>
